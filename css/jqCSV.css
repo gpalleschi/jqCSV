@@ -1,0 +1,31 @@
+.page-link 
+{
+    color: black;
+}
+
+.page-item.active .page-link 
+{
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.fixed-table-header
+{
+    background-color: #6c757d;
+}
+
+.remove {
+    color: #6c757d;
+}
+
+.edit {
+    color: #6c757d;
+}
+
+.table {
+  height: 100%;
+  margin-bottom: 0;
+}
+.table-responsive {
+  height: 100%;
+}
