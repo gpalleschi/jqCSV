@@ -4,7 +4,7 @@
 
 ## Description :
 
-jqCSV is a html client utility to manage csv files, permits to read, filter, modify rows, add new rows, delete rows, hide/show columns, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.    
+jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, hide/show columns, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.    
 
 ![jqCSV](./img/jqCSV.png)  
 
@@ -19,11 +19,13 @@ Column Number : Regular Expression or 'C' for sum columns values>
 Column Number starts from 1.
 Second parameter it's not necessary.  
 
-For example in a csv with 5 Columns I select only rows with :
+For example expression : **1:^.*John.*$,2-3,4:C,5:C** in a csv with 5 Columns I want select only rows with :
 
-       1 columns contains John
-       columns 2 and 3
-       Sum columns values of columns 4 and 5 
+<ul>
+<li>First columns contains John</li>
+<li>Show columns 2 and 3</li>
+<li>Sum columns values of columns 4 and 5</li>
+</ul>
 
 ![jqCSV](./img/jqCSV_2.png)  
 
