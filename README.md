@@ -40,7 +40,8 @@ Rows Selected :
 
 Visual Code Editor  
 jquery 3.6.0  
-Bootstrap 5  
+Bootstrap 5
+fontawesome-free 5.12.1  
 bootstrap-table 1.18.3
 
 ## Authors
