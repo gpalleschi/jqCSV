@@ -1,10 +1,12 @@
 # jqCSV
 
+
 ----
 
 ## Description :
 
-jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, hide/show columns, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.    
+jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, hide/show columns, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel. 
+It's present on npm package https://www.npmjs.com/package/jqcsv.
 
 ![jqCSV](./img/jqCSV.png)  
 
@@ -56,7 +58,7 @@ Visual Code Editor
 
 ## Prerequisites :
 
-----
+npm installed 
 
 ## License :
 
