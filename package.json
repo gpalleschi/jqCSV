@@ -1,8 +1,8 @@
 {
   "name": "jqcsv",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.",
-  "main": "index.js",
+  "main": "jqCSV.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

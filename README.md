@@ -33,20 +33,26 @@ Rows Selected :
 
 ![jqCSV](./img/jqCSV_3.png)    
 
+----
+
+## Installation :
+
+Clone this repo  
+Run **npm install**
 
 ----
 
 ## Built With :
 
 Visual Code Editor  
-jquery 3.6.0  
-Bootstrap 5
-fontawesome-free 5.12.1  
-bootstrap-table 1.18.3
+
+----
 
 ## Authors
 
 * **Giovanni Palleschi** - [gpalleschi](https://github.com/gpalleschi)  
+
+----
 
 ## Prerequisites :
 
