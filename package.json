@@ -1,0 +1,32 @@
+{
+  "name": "jqcsv",
+  "version": "1.0.0",
+  "description": "jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpalleschi/jqCSV.git"
+  },
+  "keywords": [
+    "jquery",
+    "csv",
+    "crud",
+    "bootstrap5"
+  ],
+  "author": "Giovanni Palleschi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gpalleschi/jqCSV/issues"
+  },
+  "homepage": "https://github.com/gpalleschi/jqCSV#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.2",
+    "bootstrap-table": "^1.18.3",
+    "jquery": "^3.6.0",
+    "tableexport.jquery.plugin": "^1.10.11"
+  }
+}
