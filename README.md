@@ -40,6 +40,8 @@ Rows Selected :
 
 Clone this repo  
 Run **npm install**
+Run **npm start**
+Open site "http://(ip server):8080/jqCSV.html"  
 
 ----
 
