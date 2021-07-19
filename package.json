@@ -1,5 +1,5 @@
 {
-  "name": "jqcsv",
+  "name": "@gnnk71/jqcsv",
   "version": "2.0.0",
   "description": "jqCSV is a html client utility to manage csv files, read, filter, modify rows, add new rows, delete rows, export file csv in JSON, XML, CSV, TXT, SQL and MS-Excel.",
   "main": "jqCSV.html",
@@ -30,5 +30,6 @@
     "jquery": "^3.6.0",
     "live-server": "^1.2.1",
     "tableexport.jquery.plugin": "^1.10.11"
-  }
+  },
+  "devDependencies": {}
 }

@@ -9,13 +9,14 @@ jqCSV is a html client utility to manage csv files, read, filter, modify rows, a
 
 ![jqCSV](./img/jqCSV.png)  
 
-Tools presents a input field to insert commands to filter columns.
+Tools presents a input field to insert commands to filter columns or summarize it.  
+Each command is separated from each other by comma (,).  
 
 Posible Syntaxs are :
 
-Column Number   
-Column Number from - Column Number to  
-Column Number : Regular Expression or 'C' for sum columns values>   
+Column Number  (ex. 1)  
+Column Number from - Column Number to (ex 1-3 )  
+Column Number : Regular Expression or 'C' for sum columns values>  (ex. 3:^ABC or 4:C )  
 
 Column Number starts from 1.
 Second parameter it's not necessary.  
